@@ -5,7 +5,7 @@ trees folder contains:
 
 1) Figure 2D: Sequence alignment (.mas), maximum likelihood tree (.mtsx, .nwk, .pdf)
 2) Figure 3A: Sequence alignment (.mas), maximum likelihood tree (.mtsx, .nwk, .pdf)
-3) Supplementary tree Bacteria-fungi 460 sequence: Sequence aligment (.mas), Maximum likelihood tree (.mtsx, .nwk, .pdf)
+3) Supplementary tree Bacteria-fungi 460 sequence: Sequence aligment (.mas), Neighbor-joining tree (.mtsx, .nwk, .pdf)
 
 Structure NcNADase AFold folder contains:
 
